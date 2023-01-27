@@ -1,0 +1,126 @@
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:100);
+
+body.dataTables,
+body.jqueryui {
+	font: 90%/1.45em "Helvetica Neue", HelveticaNeue, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #333;
+	background-color: #fff;
+}
+
+body.dataTables div.container,
+body.jqueryui div.container {
+	max-width: 980px;
+	margin: 0 auto;
+}
+
+body.dataTables h1,
+body.jqueryui h1 {
+	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Raleway', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-weight: 100;
+	letter-spacing: 1px;
+	font-size: 3em;
+	line-height: 1em;
+}
+
+h1 span {
+	font-size: 0.5em;
+	line-height: 1em;
+}
+
+
+
+div.DTE_Body div.DTE_Body_Content div.DTE_Field>div.DTE_Field_Input {
+    float: left!IMPORTANT;
+    width: 100%!IMPORTANT;
+}
+
+.InputSize {
+	font-size: 45px;
+    margin: 0!important;
+}
+
+
+.pretty .state label:after, .pretty .state label:before {
+
+    background-color: transparent;
+}
+
+
+.pretty .state label {
+
+    text-indent: 0;
+}
+
+.pretty {
+
+    margin-bottom: 10px!important;
+}
+
+.CheckboxContainer .label.DTE_Label {
+    DISPLAY: NONE;
+}
+
+.CheckboxContainer div.DTE_Field {
+    padding: 0!important;
+}
+
+div.DTE_Field_Type_checkbox div.DTE_Field_Input>div>div label {
+    margin-left: 80px!important;
+	vertical-align: 0!important;
+	color: transparent!important;
+}
+
+.pretty .state label {
+    text-indent: -70px!important;
+}
+
+.CheckboxContainer label.DTE_Label {
+    display: none!important;
+}
+
+.CheckboxContainer {
+    margin-left: 65px;
+}
+
+.CustomerContainer .DTE_Field {
+    padding: 5px 8%!important;
+}
+
+.CheckboxContainer .DTE_Field_Input {
+    margin-top: 15px;
+}
+
+
+#LogoContainer {
+	margin-bottom: 20px;
+	float:left;
+	margin-right: 20px;
+	margin-top: 30px;
+}
+
+#LogoContainer img {
+    height: auto;
+    width: 170px;
+}
+
+#TitleContainer {
+	float: RIGHT;
+	margin-top: 20px;
+}
+
+.tab-content {
+    margin-top: 30px;
+    min-height: 390px;
+}
+
+
+textarea#DTE_Field_history {
+    padding: 20px;
+    height: 300px;
+}
+
+
+

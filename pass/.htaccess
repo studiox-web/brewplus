@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "My Protected Area"
+AuthUserFile /home/djvibe/public_html/studiox.tv/mainstreet/admin/.htpasswd
+Require valid-user
